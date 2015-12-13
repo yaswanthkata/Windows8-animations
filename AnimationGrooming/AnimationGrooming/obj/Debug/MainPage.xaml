@@ -1,0 +1,158 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AnimationGrooming"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Interactivity="using:Microsoft.Xaml.Interactivity" xmlns:Core="using:Microsoft.Xaml.Interactions.Core" xmlns:Media="using:Microsoft.Xaml.Interactions.Media"
+    x:Class="AnimationGrooming.MainPage"
+    mc:Ignorable="d">
+	<Page.Resources>
+		<Storyboard x:Name="girlHeadShaking">
+			<DoubleAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="image">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="4.086"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="-6.323"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Name="girlsHandMovement">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" Storyboard.TargetName="image1">
+				<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1.02"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.054"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image1">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="3.019"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="3.465"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image1">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0.121"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="2.797"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" Storyboard.TargetName="image1">
+				<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1.027"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.027"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Name="manCrowbarMovement">
+			<DoubleAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="image2">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-6.323"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Name="womenDiggingMovement">
+			<DoubleAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" Storyboard.TargetName="image3">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image3">
+				<EasingDoubleKeyFrame KeyTime="0" Value="-9"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="-9"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" Storyboard.TargetName="image3">
+				<EasingDoubleKeyFrame KeyTime="0" Value="-1.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1" Value="-1.5"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Name="trainMovement">
+			<DoubleAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" Storyboard.TargetName="image4">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2" Value="-250"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:4" Value="-500"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:6" Value="-750"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:8" Value="-1000"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:10" Value="-1250"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:12" Value="-1500"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</Page.Resources>
+	<Grid>
+		<Grid.Background>
+			<ImageBrush Stretch="Fill" ImageSource="Assets/Vectors/bg.png"/>
+		</Grid.Background>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="1*"/>
+			<ColumnDefinition Width="3*"/>
+			<ColumnDefinition Width="3*"/>
+			<ColumnDefinition Width="3*"/>
+			<ColumnDefinition Width="2*"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="9*"/>
+			<RowDefinition Height="1*"/>
+		</Grid.RowDefinitions>
+		<StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="5" Margin="0,0,0,0">
+			<Image x:Name="image4" Source="/Assets/Vectors/train.png" Height="100" Width="300" RenderTransformOrigin="0.5,0.5">
+				<Image.RenderTransform>
+					<CompositeTransform/>
+				</Image.RenderTransform>
+			</Image>
+		</StackPanel>
+		<StackPanel x:Name="manWithCrowbar" Orientation="Horizontal" Grid.Column="1">
+			<Image Source="/Assets/Vectors/manbase.png" Height="500" Margin="0,200,0,0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+			<Image x:Name="image2" Source="/Assets/Vectors/crowbar.png"  HorizontalAlignment="Left" Height="400" VerticalAlignment="Center" Margin="-68,324,0,0" RenderTransformOrigin="0.5,0.5">
+				<Interactivity:Interaction.Behaviors>
+					<Core:EventTriggerBehavior EventName="PointerPressed">
+						<Media:ControlStoryboardAction Storyboard="{StaticResource manCrowbarMovement}"/>
+					</Core:EventTriggerBehavior>
+				</Interactivity:Interaction.Behaviors>
+				<Image.RenderTransform>
+					<CompositeTransform/>
+				</Image.RenderTransform>
+			</Image>
+			<Image Source="/Assets/Vectors/manHand.png" Height="50" Margin="-65,245,0,0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+		</StackPanel>
+		<StackPanel x:Name="gril" VerticalAlignment="Bottom" Grid.Column="2" Margin="0,0,0,0">
+			<Image x:Name="image" Source="/Assets/Vectors/girlHead.png" Height="170" Width="230" RenderTransformOrigin="0.5,0.5">
+				<Image.RenderTransform>
+					<CompositeTransform/>
+				</Image.RenderTransform>
+				<Interactivity:Interaction.Behaviors>
+					<Core:EventTriggerBehavior EventName="PointerPressed">
+						<Media:ControlStoryboardAction Storyboard="{StaticResource girlHeadShaking}"/>
+					</Core:EventTriggerBehavior>
+				</Interactivity:Interaction.Behaviors>
+			</Image>
+			<Image Source="/Assets/Vectors/girlbase.png" Height="300" Margin="-10,-15,0,0" Width="200" />
+			<Image x:Name="image1" Source="/Assets/Vectors/girlsHandWithBasket.png" Height="160" Width="220" Margin="88,-445,0,0" RenderTransformOrigin="0.5,0.5">
+				<Interactivity:Interaction.Behaviors>
+					<Core:EventTriggerBehavior EventName="PointerPressed">
+						<Media:ControlStoryboardAction Storyboard="{StaticResource girlsHandMovement}"/>
+					</Core:EventTriggerBehavior>
+				</Interactivity:Interaction.Behaviors>
+				<Image.RenderTransform>
+					<CompositeTransform Rotation="-9.462"/>
+				</Image.RenderTransform>
+			</Image>
+            <Image Source="/Assets/Vectors/plant.png" Height="120" Width="120" VerticalAlignment="Bottom" Margin="0,10,0,0"/>
+        </StackPanel>
+		<StackPanel x:Name="women" VerticalAlignment="Bottom" HorizontalAlignment="Right" Grid.Column="3">
+			<Interactivity:Interaction.Behaviors>
+				<Core:EventTriggerBehavior EventName="PointerPressed">
+					<Media:ControlStoryboardAction Storyboard="{StaticResource trainMovement}"/>
+				</Core:EventTriggerBehavior>
+			</Interactivity:Interaction.Behaviors>
+			<Image Source="/Assets/Vectors/womenHead.png" Height="170" Width="200" Margin="65,160,0,0"/>
+			<Image Source="/Assets/Vectors/womanNeck.png" Height="50" Width="50" Margin="30,-18,0,0" />
+			<Image Source="/Assets/Vectors/womenBase.png" Height="300" Margin="-20,-85,0,0" />
+			<Image x:Name="image3" Source="/Assets/Vectors/womenDiggingHand.png" Height="120"  Margin="-20,-350,0,0" RenderTransformOrigin="0.5,0.5">
+				<Interactivity:Interaction.Behaviors>
+					<Core:EventTriggerBehavior EventName="PointerPressed">
+						<Media:ControlStoryboardAction Storyboard="{StaticResource womenDiggingMovement}"/>
+					</Core:EventTriggerBehavior>
+				</Interactivity:Interaction.Behaviors>
+				<Image.RenderTransform>
+					<CompositeTransform/>
+				</Image.RenderTransform>
+			</Image>
+		</StackPanel>
+	</Grid>
+</Page>
+

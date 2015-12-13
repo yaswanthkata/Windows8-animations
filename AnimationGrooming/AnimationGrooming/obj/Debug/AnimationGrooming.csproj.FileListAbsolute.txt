@@ -1,0 +1,85 @@
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\bg.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlbase.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlHead.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlsHandWithBasket.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\manbase.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenBase.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenDiggingHand.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenHead.png
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\App.xbf
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\MainPage.xbf
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.exe
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.pdb
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\resources.pri
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\AppxManifest.xml
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.build.appxrecipe
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\App.g.i.cs
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\App.g.cs
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.g.i.cs
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.g.cs
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\App.xaml
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.xaml
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\App.xbf
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.xbf
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\XamlSaveStateFile.xml
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.exe
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.pdb
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.csproj.GenerateResource.Cache
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\priconfig.xml
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\priconfig.xml.intermediate
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\layout.resfiles
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\layout.resfiles.intermediate
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\resources.resfiles
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\resources.resfiles.intermediate
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\pri.resfiles
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\pri.resfiles.intermediate
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\qualifiers.txt
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\qualifiers.txt.intermediate
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yaswa_000\Documents\Visual Studio 2013\Projects\AnimationGrooming\AnimationGrooming\obj\Debug\ProjectArchitectures.txt
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\bg.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlbase.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlHead.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\girlsHandWithBasket.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\manbase.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenBase.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenDiggingHand.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Assets\Vectors\womenHead.png
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\App.xbf
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\MainPage.xbf
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.xr.xml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.exe
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.pdb
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\resources.pri
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\AppxManifest.xml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.build.appxrecipe
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Microsoft.Xaml.Interactions.dll
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\bin\Debug\Microsoft.Xaml.Interactivity.dll
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\App.g.i.cs
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\App.g.cs
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.g.i.cs
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.g.cs
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\XamlTypeInfo.g.cs
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\App.xaml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.xaml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\App.xbf
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\MainPage.xbf
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\XamlSaveStateFile.xml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.exe
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.pdb
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\AnimationGrooming.csproj.GenerateResource.Cache
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\priconfig.xml
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\priconfig.xml.intermediate
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\layout.resfiles
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\layout.resfiles.intermediate
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\resources.resfiles
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\resources.resfiles.intermediate
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\pri.resfiles
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\pri.resfiles.intermediate
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\qualifiers.txt
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\qualifiers.txt.intermediate
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Work related\New folder (2)\AnimationGrooming\AnimationGrooming\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOBILETEAM</Machine>
+    <WindowsUser>Yaswanth Kata</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b7cea7c4-b171-4aa3-bf1b-deeedd863aaa</PackageIdentityName>
+    <IntermediateOutputPath>D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2BCE896A98D9B0D26622DC2B8F5ADCCFD4C4B1B07C61DAC8DCF6894AB3A76FF6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b7cea7c4-b171-4aa3-bf1b-deeedd863aaa_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b7cea7c4-b171-4aa3-bf1b-deeedd863aaa_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b7cea7c4-b171-4aa3-bf1b-deeedd863aaa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-13T11:20:33.326</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.exe">
+      <PackagePath>AnimationGrooming.exe</PackagePath>
+      <Modified>2015-12-13T11:20:31.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-12-10T12:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-12-10T12:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\bg.png">
+      <PackagePath>Assets\Vectors\bg.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\crowbar.png">
+      <PackagePath>Assets\Vectors\crowbar.png</PackagePath>
+      <Modified>2014-02-19T05:14:21.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\girlbase.png">
+      <PackagePath>Assets\Vectors\girlbase.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\girlHead.png">
+      <PackagePath>Assets\Vectors\girlHead.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\girlsHandWithBasket.png">
+      <PackagePath>Assets\Vectors\girlsHandWithBasket.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\manbase.png">
+      <PackagePath>Assets\Vectors\manbase.png</PackagePath>
+      <Modified>2014-02-19T05:14:21.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\manHand.png">
+      <PackagePath>Assets\Vectors\manHand.png</PackagePath>
+      <Modified>2014-02-19T05:18:03.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\plant.png">
+      <PackagePath>Assets\Vectors\plant.png</PackagePath>
+      <Modified>2014-02-25T10:13:05.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\train.png">
+      <PackagePath>Assets\Vectors\train.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\womanNeck.png">
+      <PackagePath>Assets\Vectors\womanNeck.png</PackagePath>
+      <Modified>2014-02-19T05:44:11.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\womenBase.png">
+      <PackagePath>Assets\Vectors\womenBase.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\womenDiggingHand.png">
+      <PackagePath>Assets\Vectors\womenDiggingHand.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\Assets\Vectors\womenHead.png">
+      <PackagePath>Assets\Vectors\womenHead.png</PackagePath>
+      <Modified>2014-02-19T04:55:34.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\AnimationGrooming.xr.xml">
+      <PackagePath>AnimationGrooming.xr.xml</PackagePath>
+      <Modified>2015-12-13T11:20:30.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-02-27T08:30:13.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-02-27T08:30:13.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Work related\New folder %282%29\AnimationGrooming\AnimationGrooming\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-13T11:20:32.606</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
